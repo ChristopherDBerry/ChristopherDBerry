@@ -4,7 +4,7 @@ For professional queries please see my [Linkedin page](https://www.linkedin.com/
 
 I'm Chris from England, currently living in France raising tomatoes 🍅 and chickens 🐔.
 
-I do full stack development, with a passing for web accessibility. Some of my main skills are
+I do full stack development, with a passion for web accessibility. Some of my main skills are
 
 - Python (Django, Flask, FastAPI)
 - Node.js
