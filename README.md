@@ -4,7 +4,7 @@ For professional queries please see my [Linkedin page](https://www.linkedin.com/
 
 I'm Chris from England, currently living in France raising tomatoes 🍅 and chickens 🐔.
 
-I do full stack development, with a passion for web accessibility (I have read [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) more times than you). Some of my main skills are
+I do Python-flavored full stack development. Accessibility evangelist (I have read the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) more times than you). Some of my main skills are
 
 - Python (Django, Flask, FastAPI)
 - Node.js
