@@ -15,5 +15,3 @@ I do Python-flavored full stack development. Accessibility evangelist (I have re
 - AWS
 
 When I am being less serious I also muck about developing my own AI tools, playing with blockchains and obsessing over JR Tolkien 💍🧙🧒🧒🧒🧒👨👨🧔🧝.
-
-It's looking a little quiet quiet around here 😴. I'm working on it.
