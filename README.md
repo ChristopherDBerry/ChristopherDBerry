@@ -2,9 +2,13 @@
 
 For professional queries please see my [Linkedin page](https://www.linkedin.com/in/christopher-berry-346442253/)
 
-I'm Chris from England, currently living in France raising tomatoes 🍅 and chickens 🐔.
+I'm Chris from England, living in France raising my next iteration 🧒🧒🧒 (plus tomatoes 🍅 and a few chickens 🐔).
 
-I do Python-flavored full stack development. Accessibility evangelist (I have read the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) more times than you). Some of my main skills are
+I do Python-flavored full stack development. Web Accessibility evangelist (I have read the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) more times than you). 
+
+Currently working with PlayMakers making tools to empower gamers to make their own video game content, which is quite a lot of fun.
+
+Some of my main skills are
 
 - Python (Django, Flask, FastAPI)
 - Node.js
@@ -13,5 +17,3 @@ I do Python-flavored full stack development. Accessibility evangelist (I have re
 - React
 - HTML / CSS
 - AWS
-
-When I am being less serious I also muck about developing my own AI tools, playing with blockchains and obsessing over JR Tolkien 💍🧙🧒🧒🧒🧒👨👨🧔🧝.
