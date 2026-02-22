@@ -68,14 +68,26 @@ Currently based in France 🇫🇷, originally from England 🇬🇧.
 
 ---
 
+## 🎯 Career goals
+
+- **Make the internet a little bit nicer** *(Sitemorse has a genuine impact on web accessibility in the UK, and I’m proud of my time as a lead developer)* ✅
+- **Work in the video games industry** *(PlayMakers was awesome!)* ✅
+- **Founder or early-stage engineer, integral player in a startup reaching €50M+ valuation or successful exit** *(Still working towards this, I reckon PulsHeart’s the one ❤️)* ❌
+- **Build and maintain significant production infrastructure from the ground up: €50k+/year cloud spend, 99.9% uptime target, thousands of users/devices, fortress cybersec** *(In progress)* ❌
+- **Architect the software platform for a regulated medical device entering clinical production** *(Not yet)* ❌
+- **Commit code on the day I retire** *(Engineer for life)* ❌
+- **Independently ship a game on Steam** *(When I've achieved the rest ☺)* ❌
+
+---
+
 ## 🌱 Outside of work
 
 - Long-term investing & financial modeling
 - Tabletop gaming & miniature painting
-- Raising kids, growing tomatoes, keeping chickens 🐔
+- Raising kids with my lovely wife, growing tomatoes, keeping chickens 🐔, hiking with my dog 🐕
 
 ---
 
 ## 🔗 Elsewhere
 
-- [LinkedIn](https://www.linkedin.com/in/christopher-berry-346442253/) — professional background & experience
+- [https://www.linkedin.com/in/christopher-berry-346442253/](https://www.linkedin.com/in/christopher-berry-346442253/) — professional background & experience
