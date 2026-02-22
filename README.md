@@ -90,4 +90,4 @@ Currently based in France 🇫🇷, originally from England 🇬🇧.
 
 ## 🔗 Elsewhere
 
-- [https://www.linkedin.com/in/christopher-berry-346442253/](https://www.linkedin.com/in/christopher-berry-346442253/) — professional background & experience
+- [https://www.linkedin.com/in/chris-berry-346442253/](https://www.linkedin.com/in/chris-berry-346442253/) — professional background & experience
