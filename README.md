@@ -5,7 +5,7 @@ Senior software architect & engineer working on **regulated medical device softw
 I design and build **compliant, production-grade systems** at the intersection of:
 - medical devices (IEC 62304, ISO 13485, CSV)
 - cloud infrastructure (AWS)
-- modern web stacks with a Python and Node focus
+- modern web stacks with a Python and Node.js focus
 
 Currently based in France 🇫🇷, originally from England 🇬🇧.
 
@@ -30,11 +30,11 @@ Currently based in France 🇫🇷, originally from England 🇬🇧.
 
 ---
 
-## 🛠️ Tech stack (opinionated, battle-tested)
+## 🛠️ Tech stack
 
 **Languages**
 - Python (primary)
-- TypeScript / JavaScript
+- TypeScript / Node.js
 - SQL
 
 **Backend**
@@ -62,9 +62,8 @@ Currently based in France 🇫🇷, originally from England 🇬🇧.
 ## 📐 How I work
 
 - Architecture-first, but pragmatic
-- Prefer boring, explicit solutions over clever ones
-- Strong bias toward **maintainability, traceability, and failure modes**
-- Comfortable operating as engineer, architect, and bridge between engineering, compliance, and product
+- Strong bias toward **maintainability, traceability, verifiability, and failure modes**
+- Comfortable operating as engineer, architect, and bridge between engineering, science, compliance, and product
 
 ---
 
@@ -74,7 +73,7 @@ Currently based in France 🇫🇷, originally from England 🇬🇧.
 - **Work in the video games industry** *(PlayMakers was awesome!)* ✅
 - **Founder or early-stage engineer, integral player in a startup reaching €50M+ valuation or successful exit** *(Still working towards this, I reckon PulsHeart’s the one ❤️)* ❌
 - **Build and maintain significant production infrastructure from the ground up: €50k+/year cloud spend, 99.9% uptime target, thousands of users/devices, fortress cybersec** *(In progress)* ❌
-- **Architect the software platform for a regulated medical device entering clinical production** *(Not yet)* ❌
+- **Architect the software platform for a new regulated medical device entering clinical production** *(Not yet)* ❌
 - **Commit code on the day I retire** *(Engineer for life)* ❌
 - **Independently ship a game on Steam** *(When I've achieved the rest ☺)* ❌
 
