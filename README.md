@@ -75,7 +75,7 @@ Currently based in France 🇫🇷, originally from England 🇬🇧.
 - **Build and maintain significant production infrastructure from the ground up**: €50k+/year cloud spend, 99.9% uptime target, thousands of users/devices, fortress cybersec *(In progress)* ❌
 - **Architect the software platform for a new regulated medical device entering clinical production** *(Not yet)* ❌
 - **Commit code on the day I retire** *(Engineer for life)* ❌
-- **Independently ship a game on Steam** *(When I've achieved the rest ☺)* ❌
+- **Independently ship a game on Steam** *(When I've achieved the rest 🙂)* ❌
 
 ---
 
