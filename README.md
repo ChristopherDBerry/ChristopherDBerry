@@ -5,7 +5,7 @@ Senior software architect & engineer working on **regulated medical device softw
 I design and build **compliant, production-grade systems** at the intersection of:
 - medical devices (IEC 62304, ISO 13485, CSV)
 - cloud infrastructure (AWS)
-- modern Python & web stacks
+- modern web stacks with a Python and Node focus
 
 Currently based in France 🇫🇷, originally from England 🇬🇧.
 
